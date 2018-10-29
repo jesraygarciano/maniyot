@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <img width="25%" src="./assets/logo.png">
+    <h3>Watititi</h3>
     <HelloWorld/>
   </div>
 </template>
